@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Large Language Models in Healthcare
 
 # Your name to show in the footer
-author: Some Person
+author: Hazrat Ali
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -277,7 +277,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: false  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
