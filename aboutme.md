@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: LLMs in Healthcare
+title: LLMs in Healthcare
+subtitle: Call for Book Chapters
 ---
 
 Large Language Models in Healthcare: Opportunities, Applications, and Challenges.
