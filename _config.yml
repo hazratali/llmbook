@@ -21,10 +21,10 @@ author: Hazrat Ali
 
 navbar-links:
   About: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
+    # - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/open-book-50.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  # facebook: deanattali
+  github: hazratali
+  twitter: hazrat_ai
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -86,7 +86,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This webpage is dedicated for the LLMs in Healthcare book. 
 
 ###########################
 # --- General options --- #
