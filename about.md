@@ -4,87 +4,19 @@ title: LLMs in Healthcare
 subtitle: Call for Book Chapters
 ---
 
-![logo](/assets/img/CRC_Press_logo.svg)
-
 # Large Language Models in Healthcare: Opportunities, Applications, and Challenges
 
+Background: 
+We invite book chapters for our upcoming book on Large Language Models in Healthcare: Opportunities, Applications, and Challenges, to be published by Taylor and Francis Group/CRC Press. 
+With the recent developments in large language models (LLMs), we are witnessing a paradigm shift in medical artificial intelligence. LLMs demonstrate potential to help understand clinical language, elevate healthcare quality, accelerate diagnosis and prognosis processes, and enhance decision-making. Furthermore, LLMs offer a capacity to cope with the ever-expanding medical and healthcare knowledge and rapidly rising electronic health records and medical data of patients, that may otherwise leave healthcare professionals struggling with information overload. LLMs offer automation of mining vital information, extract knowledge for analysis of medical data, thus, opening up new dimensions in the healthcare domain. 
+New and existing applications are being explored ranging from summarization of clinical notes, medical question/answering (such as Med-PaLM and Med-PALM2, BioMistral) understanding unstructured notes and knowledge extraction (BioGPT), medical literature analysis, radiology report generation and medical image understanding (Radiology-llama2 , ChatCAD), drug discovery, summary completion, assessment and discharge report completion, medical education and training, medical technology user guidance.
+Likewise, the advent of new LLMs use cases also give rise of new challenges such as hardware resource constraints and achieving generalization of LLMs across data of different cohorts. More importantly, there are important ethical challenges that one needs to understand and address such as lack of empathy in LLMs-based technology, bias in training data of LLMs, privacy concerns around the use of patients data in LLMs, human feelings and trust when interacting with LLLs-based healthcare tools and accepting LLMs-driven decision in healthcare, and hallucinations. 
 
+We invite book chapters covering one or more of the following objectives.
 
-We invite book chapters for our upcoming book on Large Language Models in Healthcare: Opportunities, Applications, and Challenges, to be published by **Taylor and Francis Group/CRC Press, USA**. 
-
-We invite book chapters covering one or more of the following objectives. 
 - Recent applications and use cases of LLMs in healthcare data.
 - Analysis of large-scale healthcare data using LLMs.
 - Automation and decision-making capabilities of LLMs in healthcare applications such as diagnosis and prognosis. 
 - Challenges in training, adoption, and fine-tuning of LLMs in healthcare data, ranging from training/implementation phase to deployment phase. 
 - Trust and ethics in LLMs for healthcare applications.
 - Regulatory efforts around the globe on using LLMs in healthcare.
-
-
-### Book Editors
-- Dr. Hazrat Ali, University of Stirling, United Kingdom.
-- Dr. Mubashir Husain Rehmani, Munster Technological University, Ireland.
-
-### Timeline (tentative)
-
-<div style="text-align: center;">
-  <table border="0" cellpadding="6" cellspacing="0" style="margin: 0 auto;">
-    <tr>
-      <td>Abstract submission deadline</td>
-      <td>01 May 2025</td>
-    </tr>
-    <tr>
-      <td>Decision on abstract</td>
-      <td>30 May 2025</td>
-    </tr>
-    <tr>
-      <td>Full chapter submission</td>
-      <td>30 June 2025</td>
-    </tr>
-    <tr>
-      <td>Review on full chapter</td>
-      <td>15 August 2025</td>
-    </tr>
-    <tr>
-      <td>Revised full chapter submission</td>
-      <td>15 September 2025</td>
-    </tr>
-    <tr>
-      <td>Review on revised full chapter</td>
-      <td>15 October 2025</td>
-    </tr>
-    <tr>
-      <td>Camera ready submission</td>
-      <td>01 November 2025</td>
-    </tr>
-    <tr>
-      <td>Publisher’s submission</td>
-      <td>10 November 2025</td>
-    </tr>
-  </table>
-</div>
-
-
-## Guidelines for authors
-
-### Submission link:
-Submission link will be provided here. 
-
-### Template for abstract:
-For abstract submission, there is no required template. Just upload a 2 page abstract in any single column format. 
-
-### Template guidelines for authors:
-For full chapter, the authors are required to follow the Taylor Francis template (LaTeX only) for preparing the chapter draft. 
-- We will provide the template files here. 
-- Chapters are to be prepared using LaTeX/Overleaf. 
-- Each chapter can have 20 – 30 pages in required template. 
-- Each chapter can have a maximum of 10 figures. If you are including more than 5 coloured figures, we advise that you please let us know in advance. 
-- It is the responsibility of the authors to adhere to the guidelines of the publisher. 
-
-### Guidelines on plagiarism and the use of Generative AI:
-All the chapters must be original contributions of the authors. In case of using published figures/materials, the authors must obtain prior permission of re-use as required by the publisher. 
-
-All the chapters will go through similarity software check. An overall similarity index of less than 15% should be ensured. 
-The use of AI generated text: It is the responsibility of the authors to adhere to the publishers’ policy on the use of AI tools. We advise the authors to carefully read the publisher’s policy on the use of AI generated text. [](https://taylorandfrancis.com/our-policies/ai-policy/) 
-
-Reviewing policy: The review process will be single blind. 
