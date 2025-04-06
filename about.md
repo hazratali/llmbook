@@ -64,53 +64,11 @@ We invite book chapters covering one or more of the following objectives.
   </table>
 </div>
 
-<div style="text-align: center;">
-  <table style="margin: 0 auto; border-collapse: collapse;">
-    <tr>
-      <th style="padding: 8px;">Event</th>
-      <th style="padding: 8px;">Date</th>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Abstract submission deadline</td>
-      <td style="padding: 8px;">01 May 2025</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Decision on abstract</td>
-      <td style="padding: 8px;">30 May 2025</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Full chapter submission</td>
-      <td style="padding: 8px;">30 June 2025</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Review on full chapter</td>
-      <td style="padding: 8px;">15 August 2025</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Revised full chapter submission</td>
-      <td style="padding: 8px;">15 September 2025</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Review on revised full chapter</td>
-      <td style="padding: 8px;">15 October 2025</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Camera ready submission</td>
-      <td style="padding: 8px;">01 November 2025</td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">Publisher’s submission</td>
-      <td style="padding: 8px;">10 November 2025</td>
-    </tr>
-  </table>
-</div>
-
-
 
 ## Guidelines for authors
 
 ### Submission link:
-Submissin link will be provided here. 
+Submission link will be provided here. 
 
 ### Template for abstract:
 For abstract submission, there is no required template. Just upload a 2 page abstract in any single column format. 
@@ -125,6 +83,8 @@ For full chapter, the authors are required to follow the Taylor Francis template
 
 ### Guidelines on plagiarism and the use of Generative AI:
 All the chapters must be original contributions of the authors. In case of using published figures/materials, the authors must obtain prior permission of re-use as required by the publisher. 
+
 All the chapters will go through similarity software check. An overall similarity index of less than 15% should be ensured. 
-The use of AI generated text: It is the responsibility of the authors to adhere to the publishers’ policy on the use of AI tools. We advise the authors to carefully read the publisher’s policy on the use of AI generated text. [https://taylorandfrancis.com/our-policies/ai-policy/] 
+The use of AI generated text: It is the responsibility of the authors to adhere to the publishers’ policy on the use of AI tools. We advise the authors to carefully read the publisher’s policy on the use of AI generated text. [](https://taylorandfrancis.com/our-policies/ai-policy/) 
+
 Reviewing policy: The review process will be single blind. 
