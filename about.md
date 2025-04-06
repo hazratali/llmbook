@@ -26,19 +26,9 @@ We invite book chapters covering one or more of the following objectives.
 - Dr. Mubashir Husain Rehmani, Munster Technological University, Ireland.
 
 ### Timeline (tentative)
-| Activity                           | Date             |
-|------------------------------------|------------------|
-| Abstract submission deadline       | 01 May 2025      |
-| Decision on abstract               | 30 May 2025      |
-| Full chapter submission            | 30 June 2025     |
-| Review on full chapter             | 15 August 2025   |
-| Revised full chapter submission    | 15 September 2025|
-| Review on revised full chapter     | 15 October 2025  |
-| Camera ready submission            | 01 November 2025 |
-| Publisher’s submission             | 10 November 2025 |
 
 <div style="text-align: center;">
-  <table border="1" cellpadding="6" cellspacing="0" style="margin: 0 auto;">
+  <table border="0" cellpadding="6" cellspacing="0" style="margin: 0 auto;">
     <tr>
       <td>Abstract submission deadline</td>
       <td>01 May 2025</td>
@@ -70,6 +60,47 @@ We invite book chapters covering one or more of the following objectives.
     <tr>
       <td>Publisher’s submission</td>
       <td>10 November 2025</td>
+    </tr>
+  </table>
+</div>
+
+<div style="text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse;">
+    <tr>
+      <th style="padding: 8px;">Event</th>
+      <th style="padding: 8px;">Date</th>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Abstract submission deadline</td>
+      <td style="padding: 8px;">01 May 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Decision on abstract</td>
+      <td style="padding: 8px;">30 May 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Full chapter submission</td>
+      <td style="padding: 8px;">30 June 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Review on full chapter</td>
+      <td style="padding: 8px;">15 August 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Revised full chapter submission</td>
+      <td style="padding: 8px;">15 September 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Review on revised full chapter</td>
+      <td style="padding: 8px;">15 October 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Camera ready submission</td>
+      <td style="padding: 8px;">01 November 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 8px;">Publisher’s submission</td>
+      <td style="padding: 8px;">10 November 2025</td>
     </tr>
   </table>
 </div>
