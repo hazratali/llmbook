@@ -21,6 +21,7 @@ author: Hazrat Ali
 
 navbar-links:
   About: "about"
+  Timeline: "timeline"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
