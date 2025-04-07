@@ -27,6 +27,6 @@ All the chapters must be original contributions of the authors. In case of using
 
 All the chapters will go through similarity software check. An overall similarity index of less than 15% should be ensured. 
 
-> The use of AI generated text: It is the responsibility of the authors to adhere to the publishers’ policy on the use of AI tools. We advise the authors to carefully read the publisher’s policy on the use of AI generated text. [https://taylorandfrancis.com/our-policies/ai-policy/](https://taylorandfrancis.com/our-policies/ai-policy/) 
+The use of AI generated text: It is the responsibility of the authors to adhere to the publishers’ policy on the use of AI tools. We advise the authors to carefully read the publisher’s policy on the use of AI generated text. [https://taylorandfrancis.com/our-policies/ai-policy/](https://taylorandfrancis.com/our-policies/ai-policy/) 
 
 Reviewing policy: The review process will be single blind. 
