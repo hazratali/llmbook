@@ -4,6 +4,7 @@ title: Flyer
 subtitle: 
 ---
 ![flyer](/assets/img/flyer.png)
+
 <head>
   <style>
     body {
