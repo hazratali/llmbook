@@ -21,7 +21,7 @@ subtitle:
 <body>
   <div class="pdf-container">
     <iframe 
-      src="https://docs.google.com/gview?url=https://hazratali.github.io/assets/file/Call for chapters LLM Book.pdf&embedded=true" 
+      src="https://docs.google.com/gview?url=https://hazratali.github.io/llmbook/assets/file/Call for chapters LLM Book.pdf&embedded=true" 
       style="width:100%; height:100%;" 
       frameborder="0">
     </iframe>

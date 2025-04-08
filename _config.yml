@@ -23,6 +23,7 @@ navbar-links:
   About: "about"
   Guidelines: "guidelines"
   Timeline: "timeline"
+  Flyer: "flyer"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
