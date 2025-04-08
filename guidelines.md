@@ -39,7 +39,7 @@ Example > chapters > chapter1 > ch1.tex
 
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://hazratali.github.io/assets/file/Alon_EditedBook_v1.23.zip" download>
+  <a href="https://hazratali.github.io/llmbook/assets/file/Alon_EditedBook_v1.23.zip" download>
     <button style="background-color: darkgreen; color: white; font-size: 40px; padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer;">
       Download the LaTeX Template
     </button>
