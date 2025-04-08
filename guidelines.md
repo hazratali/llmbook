@@ -32,7 +32,7 @@ The use of AI generated text: It is the responsibility of the authors to adhere 
 Reviewing policy: The review process will be single blind. 
 
 ### Template 
-Use the Taylor Francis LaTeX template files. The use is rather easy. Download the zip file containing the template files, upload it to Overleaf and start editing the file named `ch1.tex` 
+Use the Taylor Francis LaTeX template files. The use is rather easy. Download the zip file containing the template files, upload it to Overleaf and start editing the file named `ch1.tex`. The zip file has an approxmiate size of 4.7 MB. 
 ```
 Example > chapters > chapter1 > ch1.tex
 ```
