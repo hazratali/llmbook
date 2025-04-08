@@ -37,17 +37,12 @@ Use the Taylor Francis LaTeX template files. The use is rather easy. Download th
 Example > chapters > chapter1 > ch1.tex
 ```
 
-<br>
-
-[![Button Click]][Link] 
-[![Button Hover]][Link] 
-
-<br>
+Download the LaTeX template files below. 
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://hazratali.github.io/llmbook/assets/file/Alon_EditedBook_v1.23.zip" download>
     <button style="background-color: darkgreen; color: white; font-size: 40px; padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer;">
-      Download the LaTeX Template
+      Download
     </button>
   </a>
 </div>
