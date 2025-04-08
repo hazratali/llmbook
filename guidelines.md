@@ -31,6 +31,8 @@ The use of AI generated text: It is the responsibility of the authors to adhere 
 
 Reviewing policy: The review process will be single blind. 
 
+### Template 
+
 <div align = center>
 
 [![Badge License]][License]   
@@ -49,3 +51,11 @@ Reviewing policy: The review process will be single blind.
 </div>
 
 [![Button Click]][Link] 
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://hazratali.github.io/assets/file/Alon_EditedBook_v1.23.zip" download>
+    <button style="background-color: darkgreen; color: white; font-size: 18px; padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer;">
+      Download the LaTeX Template
+    </button>
+  </a>
+</div>
