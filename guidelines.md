@@ -37,7 +37,7 @@ Use the Taylor Francis LaTeX template files. The use is rather easy. Download th
 Example > chapters > chapter1 > ch1.tex
 ```
 
-Download the LaTeX template files below. 
+**Download the LaTeX template files below.** 
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://hazratali.github.io/llmbook/assets/file/Alon_EditedBook_v1.23.zip" download>
