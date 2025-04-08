@@ -32,29 +32,15 @@ The use of AI generated text: It is the responsibility of the authors to adhere 
 Reviewing policy: The review process will be single blind. 
 
 ### Template 
+Use the Taylor Francis LaTeX template files. The use is rather easy. Download the zip file containing the template files, upload it to Overleaf and start editing the file named `ch1.tex` 
+```
+Example > chapters > chapter1 > ch1.tex
+```
 
-<div align = center>
-
-[![Badge License]][License]   
-[![Badge Likes]][#]
-
-<br>
-<br>
-
-
-<br>
-<br>
-
-
-[![Button Shield]][Shield]
-
-</div>
-
-[![Button Click]][Link] 
 
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://hazratali.github.io/assets/file/Alon_EditedBook_v1.23.zip" download>
-    <button style="background-color: darkgreen; color: white; font-size: 18px; padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer;">
+    <button style="background-color: darkgreen; color: white; font-size: 40px; padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer;">
       Download the LaTeX Template
     </button>
   </a>
