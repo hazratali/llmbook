@@ -9,15 +9,23 @@ subtitle:
 ## Guidelines for authors
 
 ### Submission link:
-Submission link will be provided here. 
+<!-- Submissions are handled via the CMT link [https://cmt3.research.microsoft.com/LLMHEALTH2025](https://cmt3.research.microsoft.com/LLMHEALTH2025) -->
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://cmt3.research.microsoft.com/LLMHEALTH2025">
+    <button style="background-color: darkgreen; color: white; font-size: 40px; padding: 12px 24px; border: none; border-radius: 6px; cursor: pointer;">
+      CMT Submission Page
+    </button>
+  </a>
+</div>
 
 ### Template for abstract:
 For abstract submission, there is no required template. Just upload a 2 page abstract in any single column format. 
 
 ### Template guidelines for authors:
-For full chapter, the authors are required to follow the Taylor Francis template (LaTeX only) for preparing the chapter draft. 
-- We will provide the template files here. 
+For full chapter, the authors are required to follow the Taylor Francis template (LaTeX only) for preparing the chapter draft.  
 - Chapters are to be prepared using LaTeX/Overleaf. 
+- The LaTeX template is provided below. 
 - Each chapter can have 20 – 30 pages in required template. 
 - Each chapter can have a maximum of 10 figures. If you are including more than 5 coloured figures, we advise that you please let us know in advance. 
 - It is the responsibility of the authors to adhere to the guidelines of the publisher. 
