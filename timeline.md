@@ -10,7 +10,7 @@ subtitle:
   <table border="0" cellpadding="6" cellspacing="0" style="margin: 0 auto;">
     <tr>
       <td>Abstract submission deadline</td>
-      <td>01 May 2025</td>
+      <td>15 May 2025</td>
     </tr>
     <tr>
       <td>Decision on abstract</td>
