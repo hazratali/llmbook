@@ -18,27 +18,27 @@ subtitle:
     </tr>
     <tr>
       <td>Full chapter submission</td>
-      <td>30 June 2025</td>
+      <td><s>30 June 2025</s> 31 July 2025</td>
     </tr>
     <tr>
       <td>Review on full chapter</td>
-      <td>15 August 2025</td>
+      <td><s>15 August 2025</s> 15 September 2025</td>
     </tr>
     <tr>
       <td>Revised full chapter submission</td>
-      <td>15 September 2025</td>
+      <td>30 September 2025</td>
     </tr>
     <tr>
       <td>Review on revised full chapter</td>
-      <td>15 October 2025</td>
+      <td>30 October 2025</td>
     </tr>
     <tr>
       <td>Camera ready submission</td>
-      <td>01 November 2025</td>
+      <td>15 November 2025</td>
     </tr>
     <tr>
       <td>Publisher’s submission</td>
-      <td>10 November 2025</td>
+      <td>30 November 2025</td>
     </tr>
   </table>
 </div>
