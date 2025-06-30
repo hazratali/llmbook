@@ -8,6 +8,13 @@ subtitle:
 
 ## Guidelines for authors
 
+### Additional guidelines on full chapter submission
+- Submission of the full chapter is via the same CMT link where the abstract was submitted. Authors can edit the submission and upload the full chapter PDF. 
+- Submit a PDF file only. 
+- Submission must be prepared using the LaTeX template provided on this page.
+- Submission of latex files is not required for review purposes. Latex files will be required only after the full chapter has been accepted. 
+- If you encounter issues with the Overleaf template, here is a quick tutorial for beginners on how to use the template file. [Youtube tutorial link](https://youtu.be/8smwBFJNPrs)
+
 ### Submission link:
 <!-- Submissions are handled via the CMT link [https://cmt3.research.microsoft.com/LLMHEALTH2025](https://cmt3.research.microsoft.com/LLMHEALTH2025) -->
 
