@@ -30,11 +30,11 @@ subtitle:
     </tr>
     <tr>
       <td>Review on revised full chapter</td>
-      <td>30 October 2025</td>
+      <td><s>30 October 2025</s> 12 November 2025</td>
     </tr>
     <tr>
       <td>Camera ready submission</td>
-      <td>15 November 2025</td>
+      <td><s>15 November 2025</s> 21 November 2025</td>
     </tr>
     <tr>
       <td>Publisher’s submission</td>
